@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My First Post</title>
+  <link rel="stylesheet" href="../assets/style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">🚀 Ratul Tech</div>
+    <nav class="nav">
+      <a href="../index.html">Home</a>
+      <a href="../about.html">About</a>
+      <a href="first-post.html">Blog</a>
+      <button id="darkToggle" class="dark-btn">🌓</button>
+    </nav>
+  </header>
+
+  <main>
+    <h1>📄 My First Blog Post</h1>
+    <p>This is my first blog post on Ratul Tech!</p>
+    <p>Welcome to my personal tech world. Let's explore together.</p>
+  </main>
+
+  <footer>
+    &copy; 2025 Ratul Tech. All rights reserved.
+  </footer>
+
+  <script src="../assets/dark-mode.js"></script>
+</body>
+</html>
